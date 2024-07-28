@@ -1,10 +1,14 @@
 # PROJECT-2. Анализ вакансий из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Naiteiroo/Project_2/blob/main/README.md#Описание-проекта) 
+[1. Описание проекта](https://github.com/Naiteiroo/Project_2/blob/main/README.md#Описание-проекта)
+
 [2. Какой кейс решаем?](https://github.com/Naiteiroo/Project_2/blob/main/README.md#Какой-кейс-решаем)
-[3. Краткая информация о данных](https://github.com/Naiteiroo/Project_2/blob/main/README.md#Краткая-информация-о-данных)   
-[4. Этапы работы над проектом](https://github.com/Naiteiroo/Project_2/blob/main/README.md#Этапы-работы-над-проектом)  
+
+[3. Краткая информация о данных](https://github.com/Naiteiroo/Project_2/blob/main/README.md#Краткая-информация-о-данных)
+
+[4. Этапы работы над проектом](https://github.com/Naiteiroo/Project_2/blob/main/README.md#Этапы-работы-над-проектом)
+
 [5. Результат](https://github.com/Naiteiroo/Project_2/blob/main/README.md#Результат)    
 
 ### Описание проекта    
