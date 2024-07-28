@@ -1,11 +1,11 @@
 # PROJECT-2. Анализ вакансий из HeadHunter
 
-### Оглавление  
-[1. Описание проекта](https://github.com/Naiteiroo/Project_2.README.md#Описание-проекта)
-[2. Какой кейс решаем?](https://github.com/Naiteiroo/Project_2.README.md#Какой-кейс-решаем)
-[3. Краткая информация о данных](https://github.com/Naiteiroo/Project_2.README.md#Краткая-информация-о-данных)   
-[4. Этапы работы над проектом](https://github.com/Naiteiroo/Project_2.README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Naiteiroo/Project_2.README.md#Результат)    
+## Оглавление  
+[1. Описание проекта](https://github.com/Naiteiroo/Project_2/README.md#Описание-проекта)
+[2. Какой кейс решаем?](https://github.com/Naiteiroo/Project_2/README.md#Какой-кейс-решаем)
+[3. Краткая информация о данных](https://github.com/Naiteiroo/Project_2/README.md#Краткая-информация-о-данных)   
+[4. Этапы работы над проектом](https://github.com/Naiteiroo/Project_2/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Naiteiroo/Project_2/README.md#Результат)    
 
 ### Описание проекта    
 Решить часть настоящей бизнес-задачи и примерить роль аналитика в компании HeadHunter.
