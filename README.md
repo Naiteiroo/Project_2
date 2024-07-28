@@ -1,16 +1,16 @@
 # PROJECT-2. Анализ вакансий из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Jopel003/My_homework/blob/main/3.%20PROJECT-2_(SQL)/README.md#Описание-проекта) 
-[2. Какой кейс решаем?](https://github.com/Naiteiroo/Project_2/README.md#Какой-кейс-решаем)
-[3. Краткая информация о данных](https://github.com/Naiteiroo/Project_2/README.md#Краткая-информация-о-данных)   
-[4. Этапы работы над проектом](https://github.com/Naiteiroo/Project_2/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Naiteiroo/Project_2/README.md#Результат)    
+[1. Описание проекта](https://github.com/Naiteiroo/Project_2/blob/main/README.md#Описание-проекта) 
+[2. Какой кейс решаем?](https://github.com/Naiteiroo/Project_2/blob/main/README.md#Какой-кейс-решаем)
+[3. Краткая информация о данных](https://github.com/Naiteiroo/Project_2/blob/main/README.md#Краткая-информация-о-данных)   
+[4. Этапы работы над проектом](https://github.com/Naiteiroo/Project_2/blob/main/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Naiteiroo/Project_2/blob/main/README.md#Результат)    
 
 ### Описание проекта    
 Решить часть настоящей бизнес-задачи и примерить роль аналитика в компании HeadHunter.
 
-:arrow_up:[к оглавлению](https://github.com/Naiteiroo/Project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Naiteiroo/Project_2/blob/main/README.md#Оглавление)
 
 ### Какой кейс решаем? 
 Создание модели машинного обучения, которая будет рекомендовать вакансии клиентам агентства, претендующим на позицию Data Scientist. Сначала вам необходимо понять, что из себя представляют данные и насколько они соответствуют целям проекта. В литературе эта часть работы над ML-проектом называется Data Understanding, или анализ данных..
@@ -44,4 +44,4 @@
 
 6. Сделан общий вывод по проекту
 
-:arrow_up:[к оглавлению](https://github.com/Naiteiroo/Project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Naiteiroo/Project_2/blob/main/README.md#Оглавление)
